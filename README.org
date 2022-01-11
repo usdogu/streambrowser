@@ -8,4 +8,4 @@ Small script for opening the current url from browser in [[https://github.com/st
 + xclip
 + xdotool
 + streamlink
-~sudo wget https://raw.githubusercontent.com/usdogu/streambrowser/main/streambrowser.sh -O /usr/local/bin/streambrowser~
+~sudo wget https://raw.githubusercontent.com/usdogu/streambrowser/main/streambrowser.sh -O /usr/local/bin/streambrowser && sudo chmod +x /usr/local/bin/streambrowser~
