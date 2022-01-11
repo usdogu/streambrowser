@@ -1,0 +1,11 @@
+#+TITLE: Readme
+#+AUTHOR: Doğu Us
+
+Small script for opening the current url from browser in [[https://github.com/streamlink/streamlink][Streamlink]].
+
+* Installation
+** Requirements
++ xclip
++ xdotool
++ streamlink
+src_bash{sudo wget https://github.com/usdogu/streambrowser/blob/main/streambrowser.sh -O /usr/local/bin/streambrowser}
