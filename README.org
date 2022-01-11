@@ -1,4 +1,4 @@
-#+TITLE: Readme
+#+TITLE: StreamBrowser
 #+AUTHOR: Doğu Us
 
 Small script for opening the current url from browser in [[https://github.com/streamlink/streamlink][Streamlink]].
